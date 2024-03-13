@@ -2,6 +2,5 @@
 /middlewares
 /tests
 .gitignore
-mocha.opts
+
 TASKS.md
-worker.js
