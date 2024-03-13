@@ -1,13 +1,7 @@
-/controllers
 /libs
 /middlewares
-/routes
 /tests
 .gitignore
 mocha.opts
-package.json
-server.js
 TASKS.md
 worker.js
-yarn.lock
-babel.config.js
